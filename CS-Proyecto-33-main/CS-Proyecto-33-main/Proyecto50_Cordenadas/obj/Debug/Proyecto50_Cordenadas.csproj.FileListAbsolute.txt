@@ -1,0 +1,8 @@
+F:\Quark\Proyecto50_Cordenadas\Proyecto50_Cordenadas\bin\Debug\Proyecto50_Cordenadas.exe.config
+F:\Quark\Proyecto50_Cordenadas\Proyecto50_Cordenadas\bin\Debug\Proyecto50_Cordenadas.exe
+F:\Quark\Proyecto50_Cordenadas\Proyecto50_Cordenadas\bin\Debug\Proyecto50_Cordenadas.pdb
+F:\Quark\Proyecto50_Cordenadas\Proyecto50_Cordenadas\obj\Debug\Proyecto50_Cordenadas.csproj.AssemblyReference.cache
+F:\Quark\Proyecto50_Cordenadas\Proyecto50_Cordenadas\obj\Debug\Proyecto50_Cordenadas.csproj.SuggestedBindingRedirects.cache
+F:\Quark\Proyecto50_Cordenadas\Proyecto50_Cordenadas\obj\Debug\Proyecto50_Cordenadas.csproj.CoreCompileInputs.cache
+F:\Quark\Proyecto50_Cordenadas\Proyecto50_Cordenadas\obj\Debug\Proyecto50_Cordenadas.exe
+F:\Quark\Proyecto50_Cordenadas\Proyecto50_Cordenadas\obj\Debug\Proyecto50_Cordenadas.pdb

@@ -1,0 +1,8 @@
+C:\Users\Daami\OneDrive\Documentos\Cursos\QUARK\Vectores\Proyecto73\Proyecto73\bin\Debug\Proyecto73.exe.config
+C:\Users\Daami\OneDrive\Documentos\Cursos\QUARK\Vectores\Proyecto73\Proyecto73\bin\Debug\Proyecto73.exe
+C:\Users\Daami\OneDrive\Documentos\Cursos\QUARK\Vectores\Proyecto73\Proyecto73\bin\Debug\Proyecto73.pdb
+C:\Users\Daami\OneDrive\Documentos\Cursos\QUARK\Vectores\Proyecto73\Proyecto73\obj\Debug\Proyecto73.csproj.AssemblyReference.cache
+C:\Users\Daami\OneDrive\Documentos\Cursos\QUARK\Vectores\Proyecto73\Proyecto73\obj\Debug\Proyecto73.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daami\OneDrive\Documentos\Cursos\QUARK\Vectores\Proyecto73\Proyecto73\obj\Debug\Proyecto73.csproj.CoreCompileInputs.cache
+C:\Users\Daami\OneDrive\Documentos\Cursos\QUARK\Vectores\Proyecto73\Proyecto73\obj\Debug\Proyecto73.exe
+C:\Users\Daami\OneDrive\Documentos\Cursos\QUARK\Vectores\Proyecto73\Proyecto73\obj\Debug\Proyecto73.pdb

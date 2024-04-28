@@ -1,0 +1,8 @@
+D:\QUARK\Proyecto35_SueldoEmpleados\Proyecto35_SueldoEmpleados\bin\Debug\Proyecto35_SueldoEmpleados.exe.config
+D:\QUARK\Proyecto35_SueldoEmpleados\Proyecto35_SueldoEmpleados\bin\Debug\Proyecto35_SueldoEmpleados.exe
+D:\QUARK\Proyecto35_SueldoEmpleados\Proyecto35_SueldoEmpleados\bin\Debug\Proyecto35_SueldoEmpleados.pdb
+D:\QUARK\Proyecto35_SueldoEmpleados\Proyecto35_SueldoEmpleados\obj\Debug\Proyecto35_SueldoEmpleados.csproj.AssemblyReference.cache
+D:\QUARK\Proyecto35_SueldoEmpleados\Proyecto35_SueldoEmpleados\obj\Debug\Proyecto35_SueldoEmpleados.csproj.SuggestedBindingRedirects.cache
+D:\QUARK\Proyecto35_SueldoEmpleados\Proyecto35_SueldoEmpleados\obj\Debug\Proyecto35_SueldoEmpleados.csproj.CoreCompileInputs.cache
+D:\QUARK\Proyecto35_SueldoEmpleados\Proyecto35_SueldoEmpleados\obj\Debug\Proyecto35_SueldoEmpleados.exe
+D:\QUARK\Proyecto35_SueldoEmpleados\Proyecto35_SueldoEmpleados\obj\Debug\Proyecto35_SueldoEmpleados.pdb

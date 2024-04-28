@@ -1,0 +1,8 @@
+D:\QUARK\Proyecto39_NumerosPares\Proyecto39_NumerosPares\bin\Debug\Proyecto39_NumerosPares.exe.config
+D:\QUARK\Proyecto39_NumerosPares\Proyecto39_NumerosPares\bin\Debug\Proyecto39_NumerosPares.exe
+D:\QUARK\Proyecto39_NumerosPares\Proyecto39_NumerosPares\bin\Debug\Proyecto39_NumerosPares.pdb
+D:\QUARK\Proyecto39_NumerosPares\Proyecto39_NumerosPares\obj\Debug\Proyecto39_NumerosPares.csproj.AssemblyReference.cache
+D:\QUARK\Proyecto39_NumerosPares\Proyecto39_NumerosPares\obj\Debug\Proyecto39_NumerosPares.csproj.SuggestedBindingRedirects.cache
+D:\QUARK\Proyecto39_NumerosPares\Proyecto39_NumerosPares\obj\Debug\Proyecto39_NumerosPares.csproj.CoreCompileInputs.cache
+D:\QUARK\Proyecto39_NumerosPares\Proyecto39_NumerosPares\obj\Debug\Proyecto39_NumerosPares.exe
+D:\QUARK\Proyecto39_NumerosPares\Proyecto39_NumerosPares\obj\Debug\Proyecto39_NumerosPares.pdb

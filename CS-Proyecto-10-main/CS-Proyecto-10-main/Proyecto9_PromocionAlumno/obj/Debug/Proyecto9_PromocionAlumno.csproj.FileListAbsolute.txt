@@ -1,0 +1,8 @@
+D:\QUARK\Proyecto9_PromocionAlumno\Proyecto9_PromocionAlumno\bin\Debug\Proyecto9_PromocionAlumno.exe.config
+D:\QUARK\Proyecto9_PromocionAlumno\Proyecto9_PromocionAlumno\bin\Debug\Proyecto9_PromocionAlumno.exe
+D:\QUARK\Proyecto9_PromocionAlumno\Proyecto9_PromocionAlumno\bin\Debug\Proyecto9_PromocionAlumno.pdb
+D:\QUARK\Proyecto9_PromocionAlumno\Proyecto9_PromocionAlumno\obj\Debug\Proyecto9_PromocionAlumno.csproj.AssemblyReference.cache
+D:\QUARK\Proyecto9_PromocionAlumno\Proyecto9_PromocionAlumno\obj\Debug\Proyecto9_PromocionAlumno.csproj.SuggestedBindingRedirects.cache
+D:\QUARK\Proyecto9_PromocionAlumno\Proyecto9_PromocionAlumno\obj\Debug\Proyecto9_PromocionAlumno.csproj.CoreCompileInputs.cache
+D:\QUARK\Proyecto9_PromocionAlumno\Proyecto9_PromocionAlumno\obj\Debug\Proyecto9_PromocionAlumno.exe
+D:\QUARK\Proyecto9_PromocionAlumno\Proyecto9_PromocionAlumno\obj\Debug\Proyecto9_PromocionAlumno.pdb

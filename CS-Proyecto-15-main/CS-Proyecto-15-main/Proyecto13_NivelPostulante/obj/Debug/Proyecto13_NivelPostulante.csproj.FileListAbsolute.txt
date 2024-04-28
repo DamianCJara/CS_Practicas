@@ -1,0 +1,8 @@
+D:\QUARK\Proyecto13_NivelPostulante\Proyecto13_NivelPostulante\bin\Debug\Proyecto13_NivelPostulante.exe.config
+D:\QUARK\Proyecto13_NivelPostulante\Proyecto13_NivelPostulante\bin\Debug\Proyecto13_NivelPostulante.exe
+D:\QUARK\Proyecto13_NivelPostulante\Proyecto13_NivelPostulante\bin\Debug\Proyecto13_NivelPostulante.pdb
+D:\QUARK\Proyecto13_NivelPostulante\Proyecto13_NivelPostulante\obj\Debug\Proyecto13_NivelPostulante.csproj.AssemblyReference.cache
+D:\QUARK\Proyecto13_NivelPostulante\Proyecto13_NivelPostulante\obj\Debug\Proyecto13_NivelPostulante.csproj.SuggestedBindingRedirects.cache
+D:\QUARK\Proyecto13_NivelPostulante\Proyecto13_NivelPostulante\obj\Debug\Proyecto13_NivelPostulante.csproj.CoreCompileInputs.cache
+D:\QUARK\Proyecto13_NivelPostulante\Proyecto13_NivelPostulante\obj\Debug\Proyecto13_NivelPostulante.exe
+D:\QUARK\Proyecto13_NivelPostulante\Proyecto13_NivelPostulante\obj\Debug\Proyecto13_NivelPostulante.pdb

@@ -1,0 +1,8 @@
+F:\Quark\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+F:\Quark\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+F:\Quark\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+F:\Quark\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+F:\Quark\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.SuggestedBindingRedirects.cache
+F:\Quark\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+F:\Quark\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+F:\Quark\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb

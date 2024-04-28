@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto15_ComparaTresNumeros", "Proyecto15_ComparaTresNumeros\Proyecto15_ComparaTresNumeros.csproj", "{4FEB9E4D-043F-47B1-B6D4-0EE8103057AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FEB9E4D-043F-47B1-B6D4-0EE8103057AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEB9E4D-043F-47B1-B6D4-0EE8103057AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEB9E4D-043F-47B1-B6D4-0EE8103057AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEB9E4D-043F-47B1-B6D4-0EE8103057AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE52D1A0-6CAE-4B27-A8B0-C5C82C3C4A98}
+	EndGlobalSection
+EndGlobal

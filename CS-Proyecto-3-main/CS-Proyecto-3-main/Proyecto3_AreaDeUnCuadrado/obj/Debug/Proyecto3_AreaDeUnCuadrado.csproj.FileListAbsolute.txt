@@ -1,0 +1,8 @@
+F:\Quark\Proyecto3_AreaDeUnCuadrado\Proyecto3_AreaDeUnCuadrado\obj\Debug\Proyecto3_AreaDeUnCuadrado.csproj.AssemblyReference.cache
+F:\Quark\Proyecto3_AreaDeUnCuadrado\Proyecto3_AreaDeUnCuadrado\obj\Debug\Proyecto3_AreaDeUnCuadrado.csproj.SuggestedBindingRedirects.cache
+F:\Quark\Proyecto3_AreaDeUnCuadrado\Proyecto3_AreaDeUnCuadrado\obj\Debug\Proyecto3_AreaDeUnCuadrado.csproj.CoreCompileInputs.cache
+F:\Quark\Proyecto3_AreaDeUnCuadrado\Proyecto3_AreaDeUnCuadrado\bin\Debug\Proyecto3_AreaDeUnCuadrado.exe.config
+F:\Quark\Proyecto3_AreaDeUnCuadrado\Proyecto3_AreaDeUnCuadrado\bin\Debug\Proyecto3_AreaDeUnCuadrado.exe
+F:\Quark\Proyecto3_AreaDeUnCuadrado\Proyecto3_AreaDeUnCuadrado\bin\Debug\Proyecto3_AreaDeUnCuadrado.pdb
+F:\Quark\Proyecto3_AreaDeUnCuadrado\Proyecto3_AreaDeUnCuadrado\obj\Debug\Proyecto3_AreaDeUnCuadrado.exe
+F:\Quark\Proyecto3_AreaDeUnCuadrado\Proyecto3_AreaDeUnCuadrado\obj\Debug\Proyecto3_AreaDeUnCuadrado.pdb

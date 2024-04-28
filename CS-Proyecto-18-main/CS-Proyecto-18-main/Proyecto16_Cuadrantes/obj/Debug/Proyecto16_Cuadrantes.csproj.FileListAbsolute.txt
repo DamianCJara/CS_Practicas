@@ -1,0 +1,8 @@
+F:\Quark\Proyecto16_Cuadrantes\Proyecto16_Cuadrantes\bin\Debug\Proyecto16_Cuadrantes.exe.config
+F:\Quark\Proyecto16_Cuadrantes\Proyecto16_Cuadrantes\bin\Debug\Proyecto16_Cuadrantes.exe
+F:\Quark\Proyecto16_Cuadrantes\Proyecto16_Cuadrantes\bin\Debug\Proyecto16_Cuadrantes.pdb
+F:\Quark\Proyecto16_Cuadrantes\Proyecto16_Cuadrantes\obj\Debug\Proyecto16_Cuadrantes.csproj.AssemblyReference.cache
+F:\Quark\Proyecto16_Cuadrantes\Proyecto16_Cuadrantes\obj\Debug\Proyecto16_Cuadrantes.csproj.SuggestedBindingRedirects.cache
+F:\Quark\Proyecto16_Cuadrantes\Proyecto16_Cuadrantes\obj\Debug\Proyecto16_Cuadrantes.csproj.CoreCompileInputs.cache
+F:\Quark\Proyecto16_Cuadrantes\Proyecto16_Cuadrantes\obj\Debug\Proyecto16_Cuadrantes.exe
+F:\Quark\Proyecto16_Cuadrantes\Proyecto16_Cuadrantes\obj\Debug\Proyecto16_Cuadrantes.pdb

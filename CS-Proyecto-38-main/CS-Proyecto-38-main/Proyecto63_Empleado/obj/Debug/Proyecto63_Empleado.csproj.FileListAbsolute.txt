@@ -1,0 +1,8 @@
+F:\Quark\Proyecto63_Empleado\Proyecto63_Empleado\bin\Debug\Proyecto63_Empleado.exe.config
+F:\Quark\Proyecto63_Empleado\Proyecto63_Empleado\bin\Debug\Proyecto63_Empleado.exe
+F:\Quark\Proyecto63_Empleado\Proyecto63_Empleado\bin\Debug\Proyecto63_Empleado.pdb
+F:\Quark\Proyecto63_Empleado\Proyecto63_Empleado\obj\Debug\Proyecto63_Empleado.csproj.AssemblyReference.cache
+F:\Quark\Proyecto63_Empleado\Proyecto63_Empleado\obj\Debug\Proyecto63_Empleado.csproj.SuggestedBindingRedirects.cache
+F:\Quark\Proyecto63_Empleado\Proyecto63_Empleado\obj\Debug\Proyecto63_Empleado.csproj.CoreCompileInputs.cache
+F:\Quark\Proyecto63_Empleado\Proyecto63_Empleado\obj\Debug\Proyecto63_Empleado.exe
+F:\Quark\Proyecto63_Empleado\Proyecto63_Empleado\obj\Debug\Proyecto63_Empleado.pdb

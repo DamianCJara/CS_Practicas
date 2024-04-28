@@ -1,0 +1,8 @@
+D:\QUARK\Proyecto34_PromedioNAltura\Proyecto34_PromedioNAltura\bin\Debug\Proyecto34_PromedioNAltura.exe.config
+D:\QUARK\Proyecto34_PromedioNAltura\Proyecto34_PromedioNAltura\bin\Debug\Proyecto34_PromedioNAltura.exe
+D:\QUARK\Proyecto34_PromedioNAltura\Proyecto34_PromedioNAltura\bin\Debug\Proyecto34_PromedioNAltura.pdb
+D:\QUARK\Proyecto34_PromedioNAltura\Proyecto34_PromedioNAltura\obj\Debug\Proyecto34_PromedioNAltura.csproj.AssemblyReference.cache
+D:\QUARK\Proyecto34_PromedioNAltura\Proyecto34_PromedioNAltura\obj\Debug\Proyecto34_PromedioNAltura.csproj.SuggestedBindingRedirects.cache
+D:\QUARK\Proyecto34_PromedioNAltura\Proyecto34_PromedioNAltura\obj\Debug\Proyecto34_PromedioNAltura.csproj.CoreCompileInputs.cache
+D:\QUARK\Proyecto34_PromedioNAltura\Proyecto34_PromedioNAltura\obj\Debug\Proyecto34_PromedioNAltura.exe
+D:\QUARK\Proyecto34_PromedioNAltura\Proyecto34_PromedioNAltura\obj\Debug\Proyecto34_PromedioNAltura.pdb

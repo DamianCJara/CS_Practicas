@@ -1,0 +1,8 @@
+F:\Quark\Proyecto16_HayUnNumeroMenor\Proyecto16_HayUnNumeroMenor\bin\Debug\Proyecto16_HayUnNumeroMenor.exe.config
+F:\Quark\Proyecto16_HayUnNumeroMenor\Proyecto16_HayUnNumeroMenor\bin\Debug\Proyecto16_HayUnNumeroMenor.exe
+F:\Quark\Proyecto16_HayUnNumeroMenor\Proyecto16_HayUnNumeroMenor\bin\Debug\Proyecto16_HayUnNumeroMenor.pdb
+F:\Quark\Proyecto16_HayUnNumeroMenor\Proyecto16_HayUnNumeroMenor\obj\Debug\Proyecto16_HayUnNumeroMenor.csproj.AssemblyReference.cache
+F:\Quark\Proyecto16_HayUnNumeroMenor\Proyecto16_HayUnNumeroMenor\obj\Debug\Proyecto16_HayUnNumeroMenor.csproj.SuggestedBindingRedirects.cache
+F:\Quark\Proyecto16_HayUnNumeroMenor\Proyecto16_HayUnNumeroMenor\obj\Debug\Proyecto16_HayUnNumeroMenor.csproj.CoreCompileInputs.cache
+F:\Quark\Proyecto16_HayUnNumeroMenor\Proyecto16_HayUnNumeroMenor\obj\Debug\Proyecto16_HayUnNumeroMenor.exe
+F:\Quark\Proyecto16_HayUnNumeroMenor\Proyecto16_HayUnNumeroMenor\obj\Debug\Proyecto16_HayUnNumeroMenor.pdb

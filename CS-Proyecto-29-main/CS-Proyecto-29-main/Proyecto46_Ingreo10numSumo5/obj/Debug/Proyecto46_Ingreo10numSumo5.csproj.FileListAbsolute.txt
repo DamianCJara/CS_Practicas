@@ -1,0 +1,8 @@
+F:\Quark\Proyecto46_Ingreo10numSumo5\Proyecto46_Ingreo10numSumo5\bin\Debug\Proyecto46_Ingreo10numSumo5.exe.config
+F:\Quark\Proyecto46_Ingreo10numSumo5\Proyecto46_Ingreo10numSumo5\bin\Debug\Proyecto46_Ingreo10numSumo5.exe
+F:\Quark\Proyecto46_Ingreo10numSumo5\Proyecto46_Ingreo10numSumo5\bin\Debug\Proyecto46_Ingreo10numSumo5.pdb
+F:\Quark\Proyecto46_Ingreo10numSumo5\Proyecto46_Ingreo10numSumo5\obj\Debug\Proyecto46_Ingreo10numSumo5.csproj.AssemblyReference.cache
+F:\Quark\Proyecto46_Ingreo10numSumo5\Proyecto46_Ingreo10numSumo5\obj\Debug\Proyecto46_Ingreo10numSumo5.csproj.SuggestedBindingRedirects.cache
+F:\Quark\Proyecto46_Ingreo10numSumo5\Proyecto46_Ingreo10numSumo5\obj\Debug\Proyecto46_Ingreo10numSumo5.csproj.CoreCompileInputs.cache
+F:\Quark\Proyecto46_Ingreo10numSumo5\Proyecto46_Ingreo10numSumo5\obj\Debug\Proyecto46_Ingreo10numSumo5.exe
+F:\Quark\Proyecto46_Ingreo10numSumo5\Proyecto46_Ingreo10numSumo5\obj\Debug\Proyecto46_Ingreo10numSumo5.pdb

@@ -1,0 +1,8 @@
+F:\Quark\Proyecto65_TablaMultiplicar\Proyecto65_TablaMultiplicar\bin\Debug\Proyecto65_TablaMultiplicar.exe.config
+F:\Quark\Proyecto65_TablaMultiplicar\Proyecto65_TablaMultiplicar\bin\Debug\Proyecto65_TablaMultiplicar.exe
+F:\Quark\Proyecto65_TablaMultiplicar\Proyecto65_TablaMultiplicar\bin\Debug\Proyecto65_TablaMultiplicar.pdb
+F:\Quark\Proyecto65_TablaMultiplicar\Proyecto65_TablaMultiplicar\obj\Debug\Proyecto65_TablaMultiplicar.csproj.AssemblyReference.cache
+F:\Quark\Proyecto65_TablaMultiplicar\Proyecto65_TablaMultiplicar\obj\Debug\Proyecto65_TablaMultiplicar.csproj.SuggestedBindingRedirects.cache
+F:\Quark\Proyecto65_TablaMultiplicar\Proyecto65_TablaMultiplicar\obj\Debug\Proyecto65_TablaMultiplicar.csproj.CoreCompileInputs.cache
+F:\Quark\Proyecto65_TablaMultiplicar\Proyecto65_TablaMultiplicar\obj\Debug\Proyecto65_TablaMultiplicar.exe
+F:\Quark\Proyecto65_TablaMultiplicar\Proyecto65_TablaMultiplicar\obj\Debug\Proyecto65_TablaMultiplicar.pdb

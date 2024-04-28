@@ -1,0 +1,8 @@
+D:\QUARK\Proyecto36_25terminosDel11\Proyecto36_25terminosDel11\bin\Debug\Proyecto36_25terminosDel11.exe.config
+D:\QUARK\Proyecto36_25terminosDel11\Proyecto36_25terminosDel11\bin\Debug\Proyecto36_25terminosDel11.exe
+D:\QUARK\Proyecto36_25terminosDel11\Proyecto36_25terminosDel11\bin\Debug\Proyecto36_25terminosDel11.pdb
+D:\QUARK\Proyecto36_25terminosDel11\Proyecto36_25terminosDel11\obj\Debug\Proyecto36_25terminosDel11.csproj.AssemblyReference.cache
+D:\QUARK\Proyecto36_25terminosDel11\Proyecto36_25terminosDel11\obj\Debug\Proyecto36_25terminosDel11.csproj.SuggestedBindingRedirects.cache
+D:\QUARK\Proyecto36_25terminosDel11\Proyecto36_25terminosDel11\obj\Debug\Proyecto36_25terminosDel11.csproj.CoreCompileInputs.cache
+D:\QUARK\Proyecto36_25terminosDel11\Proyecto36_25terminosDel11\obj\Debug\Proyecto36_25terminosDel11.exe
+D:\QUARK\Proyecto36_25terminosDel11\Proyecto36_25terminosDel11\obj\Debug\Proyecto36_25terminosDel11.pdb

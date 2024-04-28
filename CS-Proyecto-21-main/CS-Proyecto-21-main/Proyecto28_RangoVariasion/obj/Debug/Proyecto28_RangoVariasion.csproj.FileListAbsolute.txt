@@ -1,0 +1,8 @@
+D:\QUARK\Proyecto28_RangoVariasion\Proyecto28_RangoVariasion\obj\Debug\Proyecto28_RangoVariasion.csproj.AssemblyReference.cache
+D:\QUARK\Proyecto28_RangoVariasion\Proyecto28_RangoVariasion\obj\Debug\Proyecto28_RangoVariasion.csproj.SuggestedBindingRedirects.cache
+D:\QUARK\Proyecto28_RangoVariasion\Proyecto28_RangoVariasion\obj\Debug\Proyecto28_RangoVariasion.csproj.CoreCompileInputs.cache
+D:\QUARK\Proyecto28_RangoVariasion\Proyecto28_RangoVariasion\bin\Debug\Proyecto28_RangoVariasion.exe.config
+D:\QUARK\Proyecto28_RangoVariasion\Proyecto28_RangoVariasion\bin\Debug\Proyecto28_RangoVariasion.exe
+D:\QUARK\Proyecto28_RangoVariasion\Proyecto28_RangoVariasion\bin\Debug\Proyecto28_RangoVariasion.pdb
+D:\QUARK\Proyecto28_RangoVariasion\Proyecto28_RangoVariasion\obj\Debug\Proyecto28_RangoVariasion.exe
+D:\QUARK\Proyecto28_RangoVariasion\Proyecto28_RangoVariasion\obj\Debug\Proyecto28_RangoVariasion.pdb
